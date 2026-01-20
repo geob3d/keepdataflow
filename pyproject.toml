@@ -11,7 +11,7 @@ beartype = "^0.18.5"
 icontract = "^2.6.6"
 loguru = "^0.7.2"
 pydantic = "^2.7"
-python = "^3.11"
+python = ">=3.11"
 keepitsql = {git = "https://github.com/geob3d/keepitsql.git"}
 data-engineer-utils = {git = "https://github.com/geob3d/data_engineer_utils.git"}
 pyodbc = "^5.1.0"
