@@ -428,10 +428,10 @@ analyze = ["crick", "distributed", "graphviz"]
 
 [[package]]
 name = "data-engineer-utils"
-version = "0.2.0"
+version = "0.3.0"
 description = ""
 optional = false
-python-versions = ">=3.11,<4.0"
+python-versions = ">=3.11"
 groups = ["main"]
 files = []
 develop = false
@@ -449,7 +449,7 @@ sqlalchemy = "^2.0.30"
 type = "git"
 url = "https://github.com/geob3d/data_engineer_utils.git"
 reference = "HEAD"
-resolved_reference = "34825740285d013982c0f3c659b2936061fc4477"
+resolved_reference = "a75dc38ddb8068ec1d8b041fe723fc0828e0a705"
 
 [[package]]
 name = "distlib"
